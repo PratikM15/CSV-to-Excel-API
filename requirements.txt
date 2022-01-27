@@ -1,0 +1,9 @@
+django
+openpyxl
+pandas
+djangorestframework
+markdown
+django-filter
+xlsxwriter
+xlrd
+django-cors-headers
